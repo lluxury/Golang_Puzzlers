@@ -1,5 +1,8 @@
 # Golang_Puzzlers
 
+郝林 专栏 代码
+
+
 我在极客时间开设的专栏《Go语言核心36讲》的配套项目，也可以称之为“Go语言谜题”项目。其中几乎包含了此专栏涉及到的所有代码。
 
 这个专栏的地址[在这里](https://time.geekbang.org/column/intro/112?code=ti58hl0Fap2y5S-OE0G-O-2CiCtjLT94OxcNaBDzI6k%3D)。本项目中的代码携带的信息相对较少，往往需要配合专栏的内容去看。欢迎大家到“极客时间”订阅我的专栏。
